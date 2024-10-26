@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+
+.box1{
+    background-color:rgb(99, 172, 99) ;
+}
+.box2{
+     background-color: rgb(194, 141, 43);
+}
+.box3{
+    background-color: aqua;
+}
+.box4{
+    background-color: darkkhaki;
+}
+
+.boxs{
+    height: 25vh;
+    width: 25vh;
+    border: 5px solid black;
+    border-radius: 30px;
+    /* background-color: green; */
+}
+.groupbox{
+    display: flex;
+    gap: 20px;
+    margin: 20px;
+   
+    justify-content: center;
+
+}
+
+.flash{
+   
+    background-color: rgb(7, 7, 7);
+}
+.flash1{
+    background-color: white;
+}
+.allred{
+    background-color: red;
+}
